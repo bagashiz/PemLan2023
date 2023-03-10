@@ -1,2 +1,2 @@
-# PemLan2023
-Source code asisten praktikum mata kuliah Pemrograman Lanjut mengenai OOP dengan Java.
+# Deskripsi
+Source code konsep OOP dengan Java untuk asistensi praktikum mata kuliah Pemrograman Lanjut.
